@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/JackMasterMenu.API/bin
+/JackMasterMenu.API/obj
+/JackMasterMenu.dbMain/bin
+/JackMasterMenu.dbMain/obj
+/JackMasterMenu.dbTran/bin
+/JackMasterMenu.dbTran/obj
+/JackMasterMenu.Services/bin
+/JackMasterMenu.Services/obj
+/.vs

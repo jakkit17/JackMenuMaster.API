@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ZIcbvFg6USFud1foF+IKLXom/tnrndSO3yMB2tCns1o=",
+  "Source": "JackMenuMaster.dbMain",
+  "BasePath": "_content/JackMenuMaster.dbMain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jakki\\source\\repos\\JackMenuMaster.API\\JackMenuMaster.Services\\JackMenuMaster.Services.csproj",
+      "Version": 2,
+      "Source": "JackMenuMaster.Services",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

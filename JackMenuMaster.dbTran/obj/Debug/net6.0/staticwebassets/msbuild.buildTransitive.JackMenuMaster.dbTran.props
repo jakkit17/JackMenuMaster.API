@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JackMenuMaster.dbTran.props" />
+</Project>

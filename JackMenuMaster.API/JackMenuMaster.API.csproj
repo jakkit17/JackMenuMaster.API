@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JackMenuMaster.dbMain\JackMenuMaster.dbMain.csproj" />
+    <ProjectReference Include="..\JackMenuMaster.dbTran\JackMenuMaster.dbTran.csproj" />
+    <ProjectReference Include="..\JackMenuMaster.Services\JackMenuMaster.Services.csproj" />
+  </ItemGroup>
+
+</Project>
